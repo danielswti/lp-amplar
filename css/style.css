@@ -12464,3 +12464,16 @@ a.btn-mod{
 .main-nav.scrolled .logo-dark {
   display: block !important;
 }
+
+.fas, .fab, .far, .fa {
+  font-family: "Font Awesome 5 Free" !important;
+  font-weight: 900 !important; /* sólido */
+}
+.far {
+  font-family: "Font Awesome 5 Free" !important;
+  font-weight: 400 !important; /* regular */
+}
+.fab {
+  font-family: "Font Awesome 5 Brands" !important; /* marcas */
+  font-weight: 400 !important;
+}
